@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - item2
+  - item1
+  - item3
+  - item4
+  - dish1
+  - dish2
+  - request1
+  - request2
+  - dish3
+  - request3
+  - emptyDish
+  - dish11
+  - dish12
+  - dish13
+  - burned
+  - pan
+  - dish4
+  - base
+  - sauce
+  - pansauce
+  - dish14
+  - request4
+  - dish105
+  - dish106
+  - dish115
+  - dish116
+  - dish21
+  - dish22
+  - dish23
+  - dish24
+  - dish125
+  - dish126
+  - PanSauce2
+  - burned2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
