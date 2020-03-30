@@ -12,3 +12,5 @@ Desenvolvido e programado por: Arthur Dresch e Jonas P. Maia
 Tecnologias utilizadas : Unity 3D, Adobe PhotoShop ,Visual studio, Piskel.
 
 Linguagem de programação: C#
+
+https://youtu.be/c70or4HOq-E
